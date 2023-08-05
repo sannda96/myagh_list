@@ -1,4 +1,9 @@
 [Adblock Plus 2.0]
+@@||ebuckler.com^
+@@||mixpanel.com^
+@@||split.io^
+@@||s.youtube.com^
+@@||*.googlesyndication.com^
 @@||adworkmedia.com/gLoader.php?GID=$script,third-party
 @@||adworkmedia.com/gTemplate.php?GID=$subdocument,third-party
 @@||loxtk.com/gLoader.php?GID=$script,third-party
